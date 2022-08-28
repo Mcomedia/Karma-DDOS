@@ -1,6 +1,6 @@
 <div align=center>
  
-# KARMA DDoS
+# KARMA DDOS
  <p>
  <img src="https://img.shields.io/github/stars/HyukIsBack/KARMA-DDoS?color=%23DF0067&style=for-the-badge"/> &nbsp;
  <img src="https://img.shields.io/github/forks/HyukIsBack/KARMA-DDoS?color=%239999FF&style=for-the-badge"/> &nbsp;
@@ -59,7 +59,7 @@
 ```sh
 You must use Python 3.9 or higher
 
-git clone https://github.com/HyukIsBack/KARMA-DDoS.git
+git clone https://github.com/Mcomedia/Karma-DDOS
 
 Install Python3 modules
  - pip3 install -r requirements.txt  or  pip install -r requirements.txt
